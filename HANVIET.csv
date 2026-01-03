@@ -1,0 +1,145 @@
+﻿id,han_char,han_viet,meaning_short,polarity,name_safe,gender_hint,yin_yang_hint,vibe_tags,element_hint,priority,notes
+1,安,An,Yên ổn bình an,2,1,Trung,Âm,bình yên,nhẹ nhàng,Thổ,5
+2,英,Anh,Tài giỏi tinh anh,2,1,Trung,Âm,thông minh,sáng sủa,Mộc,5
+3,映,Ánh,Ánh sáng chiếu rọi,2,1,Nữ,Dương,rạng rỡ,nổi bật,Hỏa,4
+4,恩,Ân,Ân nghĩa ân tình,2,1,Trung,Âm,tình cảm,đạo đức,Mộc,3
+5,柏,Bách,Cây bách kiên định,2,1,Nam,Dương,mạnh mẽ,vững chãi,Mộc,3
+6,宝,Bảo,Quý giá bảo vật,2,1,Trung,Dương,quý phái,giàu sang,Kim,5
+7,平,Bình,Bằng phẳng công bằng,2,1,Trung,Âm,hòa nhã,công chính,Thủy,5
+8,碧,Bích,Đá quý màu xanh,2,1,Nữ,Dương,sang trọng,thanh tao,Thổ,4
+9,鹏,Bằng,Loài chim lớn (đại bàng),2,1,Nam,Âm,khát vọng,bay cao,Thổ,3
+10,吉,Cát,Tốt lành may mắn,2,1,Nữ,Dương,may mắn,vui vẻ,Thổ,3
+11,景,Cảnh,Phong cảnh sáng sủa,1,1,Nam,Dương,tươi sáng,rộng mở,Hỏa,3
+12,琴,Cầm,Đàn cầm thanh tao,2,1,Nữ,Âm,nghệ thuật,nhẹ nhàng,Mộc,3
+13,芝,Chi,Cỏ linh chi cao quý,2,1,Nữ,Âm,nhỏ nhắn,quý giá,Mộc,5
+14,战,Chiến,Chiến đấu tranh đấu,1,1,Nam,Dương,mạnh mẽ,quyết liệt,Kim,3
+15,钟,Chung,Chuông hoặc tập trung,1,1,Nam,Âm,kiên định,trung thực,Kim,4
+16,强,Cường,Mạnh mẽ cứng cáp,2,1,Nam,Âm,sức khỏe,kiên cường,Mộc,5
+17,公,Công,Công bằng chung sức,1,1,Nam,Âm,chính trực,hướng ngoại,Mộc,4
+18,勇,Dũng,Dũng cảm gan dạ,2,1,Nam,Dương,anh hùng,gan góc,Thổ,5
+19,阳,Dương,Mặt trời rực rỡ,2,1,Trung,Âm,sáng sủa,nhiệt huyết,Hỏa,5
+20,维,Duy,Gìn giữ duy nhất,2,1,Nam,Âm,độc đáo,tư duy,Thổ,4
+21,妙,Diệu,Kỳ diệu khéo léo,2,1,Nữ,Dương,nhẹ nhàng,huyền bí,Thủy,4
+22,达,Đạt,Thành đạt thông suốt,2,1,Nam,Dương,thành công,tiến bộ,Thổ,5
+23,德,Đức,Đạo đức ơn đức,2,1,Nam,Dương,nhân hậu,uy tín,Hỏa,5
+24,灯,Đăng,Ngọn đèn soi sáng,2,1,Nam,Âm,soi đường,trí tuệ,Hỏa,4
+25,蝶,Điệp,Bươm bướm xinh đẹp,1,1,Nữ,Dương,mỏng manh,đẹp đẽ,Mộc,3
+26,端,Đoan,Đoan chính ngay thẳng,2,1,Nữ,Âm,nghiêm túc,nết na,Hỏa,3
+27,庭,Đình,Sân nhà nơi tụ họp,1,1,Nam,Âm,vững chãi,trung tâm,Hỏa,4
+28,大,Đại,To lớn vĩ đại,1,1,Nam,Dương,hùng vĩ,lớn lao,Mộc,3
+29,家,Gia,Gia đình nhà cửa,2,1,Trung,Âm,ấm áp,gắn kết,Mộc,5
+30,江,Giang,Dòng sông lớn,2,1,Trung,Âm,mênh mông,phóng khoáng,Thủy,5
+31,交,Giao,Giao hòa kết nối,1,1,Nữ,Âm,hòa đồng,gắn kết,Mộc,3
+32,河,Hà,Dòng sông hiền hòa,2,1,Nữ,Âm,mềm mại,trôi chảy,Thủy,5
+33,海,Hải,Biển cả rộng lớn,2,1,Nam,Dương,bao la,sâu sắc,Thủy,5
+34,行,Hạnh,Đức hạnh nết na,2,1,Nữ,Dương,hiền thục,tốt bụng,Kim,5
+35,好,Hảo,Tốt đẹp hoàn hảo,2,1,Trung,Dương,tuyệt vời,tích cực,Thủy,3
+36,厚,Hậu,Dày dặn phúc hậu,2,1,Trung,Dương,nhân từ,sâu sắc,Thổ,4
+37,贤,Hiền,Hiền lành tài đức,2,1,Trung,Âm,lương thiện,ôn hòa,Mộc,5
+38,孝,Hiếu,Hiếu thảo tôn trọng,2,1,Nam,Dương,đạo đức,tình cảm,Kim,5
+39,侠,Hiệp,Hào hiệp trượng nghĩa,2,1,Nam,Dương,nghĩa khí,giúp người,Hỏa,3
+40,花,Hoa,Bông hoa rực rỡ,2,1,Nữ,Âm,xinh đẹp,tươi tắn,Mộc,5
+41,和,Hòa,Hòa thuận êm ấm,2,1,Trung,Âm,thân thiện,bình tĩnh,Mộc,5
+42,怀,Hoài,Nhớ mong hoài bão,1,1,Trung,Âm,tình cảm,sâu sắc,Thủy,4
+43,黄,Hoàng,Màu vàng huy hoàng,2,1,Nam,Âm,rực rỡ,quyền quý,Thổ,5
+44,辉,Huy,Ánh sáng rực rỡ,2,1,Nam,Âm,thành công,nổi bật,Hỏa,5
+45,雄,Hùng,Mạnh mẽ kiệt xuất,2,1,Nam,Âm,oai phong,lãnh đạo,Thủy,5
+46,兴,Hưng,Hưng thịnh phát triển,2,1,Nam,Âm,thịnh vượng,đi lên,Thủy,5
+47,香,Hương,Hương thơm dịu dàng,2,1,Nữ,Âm,quyến rũ,nữ tính,Thủy,5
+48,玄,Huyền,Huyền bí sâu xa,1,1,Nữ,Âm,bí ẩn,thu hút,Thủy,4
+49,启,Khải,Mở ra bắt đầu,2,1,Nam,Dương,khởi đầu,sáng tạo,Mộc,4
+50,庆,Khánh,Vui mừng chúc mừng,2,1,Trung,Dương,vui vẻ,hân hoan,Thủy,5
+51,科,Khoa,Khoa bảng học vấn,2,1,Nam,Âm,tri thức,đỗ đạt,Mộc,5
+52,魁,Khôi,Đứng đầu tuấn tú,2,1,Nam,Âm,đẹp trai,tài năng,Mộc,5
+53,奎,Khuê,Sao Khuê văn chương,2,1,Nữ,Âm,học thức,đài các,Thổ,4
+54,坚,Kiên,Kiên trì vững vàng,2,1,Nam,Âm,bền bỉ,nhẫn nại,Thổ,5
+55,杰,Kiệt,Hào kiệt xuất chúng,2,1,Nam,Dương,tài năng,vượt trội,Mộc,4
+56,金,Kim,Vàng kim loại quý,2,1,Trung,Âm,quý giá,vững chắc,Kim,5
+57,奇,Kỳ,Kỳ diệu hiếm có,1,1,Trung,Âm,độc đáo,bất ngờ,Mộc,3
+58,蓝,Lam,Màu xanh lam ngọc,2,1,Nữ,Âm,thanh bình,nhã nhặn,Mộc,4
+59,兰,Lan,Hoa lan thanh cao,2,1,Nữ,Âm,quý phái,xinh đẹp,Mộc,5
+60,麟,Lân,Kỳ lân tường thụy,2,1,Nam,Âm,may mắn,cao quý,Hỏa,3
+61,林,Lâm,Rừng cây đông đúc,2,1,Nam,Âm,vững chãi,sinh sôi,Mộc,5
+62,黎,Lê,Đám đông rạng đông,1,1,Trung,Âm,khởi đầu,đông đúc,Hỏa,3
+63,莲,Liên,Hoa sen thanh khiết,2,1,Nữ,Âm,trong sáng,thoát tục,Mộc,5
+64,灵,Linh,Linh hoạt khôn khéo,2,1,Nữ,Âm,nhanh nhẹn,thông minh,Hỏa,5
+65,鸾,Loan,Chim loan tin vui,2,1,Nữ,Âm,xinh đẹp,cao sang,Hỏa,4
+66,龙,Long,Rồng quyền uy,2,1,Nam,Âm,quyền lực,mạnh mẽ,Thổ,5
+67,禄,Lộc,Tài lộc may mắn,2,1,Nam,Dương,giàu có,phúc phần,Hỏa,5
+68,良,Lương,Lương thiện tốt lành,2,1,Trung,Âm,tốt bụng,chất phác,Mộc,4
+69,璃,Ly,Ngọc ly trong suốt,1,1,Nữ,Âm,sáng trong,tách biệt,Hỏa,4
+70,梅,Mai,Hoa mai mùa xuân,2,1,Nữ,Âm,tươi mới,may mắn,Mộc,5
+71,孟,Mạnh,Mạnh mẽ anh cả,2,1,Nam,Dương,khoẻ mạnh,dẫn đầu,Thủy,5
+72,敏,Mẫn,Minh mẫn nhanh nhẹn,2,1,Trung,Dương,sáng suốt,lanh lợi,Thủy,4
+73,明,Minh,Sáng suốt thông minh,2,1,Trung,Âm,trí tuệ,rõ ràng,Hỏa,5
+74,眉,My,Lông mày đẹp,1,1,Nữ,Âm,nhỏ nhắn,xinh xắn,Mộc,4
+75,美,Mỹ,Đẹp đẽ hoàn mỹ,2,1,Nữ,Dương,xinh đẹp,tuyệt vời,Thổ,5
+76,南,Nam,Phương Nam ấm áp,2,1,Nam,Âm,phương hướng,mở rộng,Hỏa,5
+77,娥,Nga,Xinh đẹp hằng nga,2,1,Nữ,Âm,mỹ nhân,duyên dáng,Thủy,5
+78,银,Ngân,Bạc tiền của cải,2,1,Nữ,Âm,sung túc,trong trẻo,Kim,5
+79,仪,Nghi,Dáng vẻ nghi thức,2,1,Nữ,Âm,trang trọng,lễ phép,Mộc,4
+80,义,Nghĩa,Nghĩa khí đạo lý,2,1,Nam,Dương,trung thành,đúng đắn,Mộc,5
+81,毅,Nghị,Nghị lực kiên cường,2,1,Nam,Dương,vươn lên,mạnh mẽ,Mộc,4
+82,玉,Ngọc,Viên ngọc quý giá,2,1,Trung,Dương,hoàn mỹ,đắt giá,Thổ,5
+83,原,Nguyên,Thảo nguyên nguồn gốc,2,1,Trung,Âm,bao la,khởi nguồn,Thổ,5
+84,月,Nguyệt,Mặt trăng dịu dàng,2,1,Nữ,Dương,nhẹ nhàng,thơ mộng,Thổ,4
+85,仁,Nhân,Nhân ái người,2,1,Trung,Âm,yêu thương,đạo đức,Kim,5
+86,日,Nhật,Mặt trời ban ngày,2,1,Trung,Dương,soi sáng,nhiệt thành,Hỏa,5
+87,儿,Nhi,Trẻ nhỏ nhỏ nhắn,2,1,Nữ,Âm,đáng yêu,vui tươi,Kim,5
+88,然,Nhiên,Tự nhiên an nhiên,2,1,Trung,Âm,thoải mái,chân thật,Hỏa,5
+89,绒,Nhung,Gấm nhung mềm mại,2,1,Nữ,Âm,sang trọng,êm ái,Hỏa,5
+90,如,Như,Như ý hài lòng,2,1,Nữ,Âm,vừa ý,nhẹ nhàng,Kim,5
+91,莺,Oanh,Chim oanh hót hay,2,1,Nữ,Âm,líu lo,vui vẻ,Hỏa,4
+92,风,Phong,Gió phóng khoáng,2,1,Nam,Âm,tự do,lãng tử,Thủy,5
+93,富,Phú,Giàu có trù phú,2,1,Nam,Dương,sung túc,thịnh vượng,Thủy,5
+94,福,Phúc,Hạnh phúc may mắn,2,1,Nam,Dương,viên mãn,tốt lành,Thủy,5
+95,凤,Phụng,Phượng hoàng,2,1,Nữ,Dương,quyền quý,bất tử,Hỏa,4
+96,方,Phương,Phương hướng thơm,2,1,Trung,Âm,đúng đắn,lan tỏa,Mộc,5
+97,光,Quang,Ánh sáng rạng rỡ,2,1,Nam,Âm,minh bạch,vinh quang,Hỏa,5
+98,军,Quân,Quân đội binh lính,2,1,Nam,Âm,kỷ luật,mạnh mẽ,Mộc,5
+99,国,Quốc,Đất nước tổ quốc,2,1,Nam,Dương,rộng lớn,trách nhiệm,Mộc,5
+100,娟,Quyên,Xinh đẹp thanh tú,2,1,Nữ,Âm,duyên dáng,thướt tha,Mộc,4
+101,琼,Quỳnh,Hoa quỳnh ngọc đẹp,2,1,Nữ,Âm,kín đáo,thanh tao,Mộc,5
+102,权,Quyền,Quyền lực uy quyền,2,1,Nam,Âm,lãnh đạo,sức mạnh,Mộc,4
+103,桑,Sang,Cây dâu tằm,2,1,Nam,Âm,bền bỉ,mộc mạc,Mộc,4
+104,参,Sâm,Sâm quý rừng già,2,1,Nam,Âm,quý giá,bổ dưỡng,Mộc,3
+105,山,Sơn,Núi non vững chãi,2,1,Nam,Âm,kiên định,hùng vĩ,Thổ,5
+106,双,Song,Đôi cặp song hành,1,1,Trung,Âm,cân bằng,có đôi,Kim,3
+107,才,Tài,Tài năng tiền tài,2,1,Nam,Âm,giỏi giang,giàu có,Thủy,5
+108,心,Tâm,Trái tim tấm lòng,2,1,Trung,Âm,nhân ái,sâu sắc,Kim,5
+109,新,Tân,Mới mẻ cải cách,2,1,Trung,Âm,sáng tạo,hiện đại,Kim,4
+110,进,Tấn,Tiến lên thăng chức,2,1,Nam,Dương,phát triển,thành công,Hỏa,4
+111,泰,Thái,Thái bình to lớn,2,1,Nam,Dương,bình yên,vững vàng,Thổ,5
+112,清,Thanh,Thanh khiết trong xanh,2,1,Trung,Âm,trong sáng,cao thượng,Thủy,5
+113,诚,Thành,Chân thành thành công,2,1,Nam,Âm,trung thực,hoàn thành,Kim,5
+114,草,Thảo,Cỏ cây hiếu thảo,2,1,Nữ,Dương,tươi mát,ngoan ngoãn,Mộc,5
+115,胜,Thắng,Chiến thắng vượt qua,2,1,Nam,Dương,thành công,đánh bại,Kim,4
+116,盛,Thịnh,Thịnh vượng đầy đủ,2,1,Nam,Dương,phát đạt,sung túc,Kim,4
+117,善,Thiện,Thiện lương tốt đẹp,2,1,Nam,Dương,tốt bụng,nhân từ,Kim,4
+118,秋,Thu,Mùa thu êm đềm,2,1,Nữ,Âm,lãng mạn,dịu dàng,Kim,5
+119,水,Thuỷ,Nước mềm mại,2,1,Nữ,Dương,uyển chuyển,sâu sắc,Thủy,5
+120,书,Thư,Sách vở thư thái,2,1,Nữ,Âm,tri thức,nhàn hạ,Kim,5
+121,商,Thương,Buôn bán thương yêu,2,1,Nữ,Âm,tình cảm,giao thiệp,Kim,4
+122,瑞,Thụy,Ngọc thụy điềm lành,2,1,Nữ,Dương,may mắn,bình an,Kim,3
+123,信,Tín,Uy tín tin tưởng,2,1,Nam,Dương,trách nhiệm,đáng tin,Kim,5
+124,情,Tình,Tình cảm tình yêu,2,1,Trung,Âm,ấm áp,gắn bó,Kim,3
+125,秀,Tú,Tuấn tú ưu tú,2,1,Trung,Dương,xuất sắc,đẹp đẽ,Kim,5
+126,俊,Tuấn,Tuấn tú tài giỏi,2,1,Nam,Dương,đẹp trai,hào hoa,Hỏa,5
+127,松,Tùng,Cây tùng quân tử,2,1,Nam,Âm,nghiêm nghị,trường thọ,Mộc,5
+128,祥,Tường,Cát tường điềm lành,2,1,Nam,Âm,may mắn,tốt đẹp,Hỏa,4
+129,泉,Tuyền,Suối nguồn trong trẻo,2,1,Nữ,Âm,tinh khiết,trôi chảy,Thủy,4
+130,雪,Tuyết,Tuyết trắng tinh khôi,2,1,Nữ,Dương,lạnh lùng,trong trắng,Thủy,4
+131,鸳,Uyên,Chim uyên ương,2,1,Nữ,Âm,có đôi,uyên bác,Thổ,5
+132,威,Uy,Uy quyền oai nghiêm,2,1,Nam,Âm,kính nể,mạnh mẽ,Thổ,4
+133,云,Vân,Mây bay phiêu lãng,2,1,Nữ,Âm,nhẹ nhàng,tự do,Thủy,5
+134,微,Vi,Nhỏ bé tinh tế,2,1,Nữ,Âm,chi tiết,khéo léo,Thủy,4
+135,伟,Vĩ,Vĩ đại to lớn,2,1,Nam,Dương,hùng vĩ,lớn lao,Thổ,4
+136,越,Việt,Vượt qua ưu việt,2,1,Nam,Dương,xuất sắc,dân tộc,Kim,5
+137,荣,Vinh,Vinh quang vinh dự,2,1,Nam,Âm,nổi tiếng,tự hào,Mộc,5
+138,永,Vĩnh,Vĩnh viễn lâu dài,2,1,Nam,Dương,bền vững,trường tồn,Thổ,4
+139,武,Vũ,Võ thuật mạnh mẽ,2,1,Nam,Dương,sức mạnh,oai phong,Thủy,5
+140,薇,Vy,Hoa tường vi,2,1,Nữ,Âm,xinh xắn,nhỏ nhắn,Mộc,5
+141,春,Xuân,Mùa xuân tươi trẻ,2,1,Trung,Âm,sức sống,vui vẻ,Mộc,5
+142,川,Xuyên,Dòng sông xuyên qua,1,1,Trung,Âm,trôi chảy,kết nối,Kim,3
+143,安,Yên,Yên bình an tĩnh,2,1,Nữ,Âm,tĩnh lặng,an tâm,Thổ,4
+144,燕,Yến,Chim yến tiệc tùng,2,1,Nữ,Dương,vui vẻ,cao sang,Hỏa,5
